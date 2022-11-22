@@ -1,0 +1,5 @@
+﻿  Tutorial 4.cpp
+C:\Users\tahmi\OneDrive\Documents\Visual Studio Projects\Tutorial 4\Tutorial 4\Tutorial 4.cpp(23,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tahmi\OneDrive\Documents\Visual Studio Projects\Tutorial 4\Tutorial 4\Tutorial 4.cpp(24,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tahmi\OneDrive\Documents\Visual Studio Projects\Tutorial 4\Tutorial 4\Tutorial 4.cpp(26,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Tutorial 4.vcxproj -> C:\Users\tahmi\OneDrive\Documents\Visual Studio Projects\Tutorial 4\Debug\Tutorial 4.exe
